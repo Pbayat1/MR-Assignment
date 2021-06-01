@@ -1,0 +1,14 @@
+C:\TFS\Sandbox\pbayat\Mars_Rover\Mars_Rover\bin\Debug\Mars_Rover.exe.config
+C:\TFS\Sandbox\pbayat\Mars_Rover\Mars_Rover\bin\Debug\Mars_Rover.exe
+C:\TFS\Sandbox\pbayat\Mars_Rover\Mars_Rover\bin\Debug\Mars_Rover.pdb
+C:\TFS\Sandbox\pbayat\Mars_Rover\Mars_Rover\obj\Debug\MarsRover.csprojAssemblyReference.cache
+C:\TFS\Sandbox\pbayat\Mars_Rover\Mars_Rover\obj\Debug\Mars_Rover.exe
+C:\TFS\Sandbox\pbayat\Mars_Rover\Mars_Rover\obj\Debug\Mars_Rover.pdb
+C:\TFS\Sandbox\pbayat\Mars_Rover\Mars_Rover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\Parsa.Bayat\Desktop\Mars_Rover\Mars_Rover\Mars_Rover\bin\Debug\Mars_Rover.exe.config
+C:\Users\Parsa.Bayat\Desktop\Mars_Rover\Mars_Rover\Mars_Rover\bin\Debug\Mars_Rover.exe
+C:\Users\Parsa.Bayat\Desktop\Mars_Rover\Mars_Rover\Mars_Rover\bin\Debug\Mars_Rover.pdb
+C:\Users\Parsa.Bayat\Desktop\Mars_Rover\Mars_Rover\Mars_Rover\obj\Debug\MarsRover.csprojAssemblyReference.cache
+C:\Users\Parsa.Bayat\Desktop\Mars_Rover\Mars_Rover\Mars_Rover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\Parsa.Bayat\Desktop\Mars_Rover\Mars_Rover\Mars_Rover\obj\Debug\Mars_Rover.exe
+C:\Users\Parsa.Bayat\Desktop\Mars_Rover\Mars_Rover\Mars_Rover\obj\Debug\Mars_Rover.pdb
